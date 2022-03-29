@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Libre+Baskerville&family=Montserrat:wght@700&display=swap');
+.nav-wrapper {background-color: #562020;}
+
+
+.brand-logo img {
+    width:10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+ }
