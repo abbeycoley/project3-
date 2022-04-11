@@ -9,7 +9,15 @@
     margin-left: 50px;
  }
 
-.responsive-img {
-    max-width: 500px;
-    height:auto;
+.hero-img {
+    width: 100vw;
+    height:auto; 
+    background-size: cover;
 }
+
+.section {
+    color: #562020;
+    align-content: center;
+}
+.video { margin-left: auto;}
+list {list-style-type: none;}
