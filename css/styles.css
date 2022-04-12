@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Libre+Baskerville&family=Montserrat:wght@700&display=swap');
 .nav-wrapper {background-color: #562020;}
 
-.body {background-color: #EDEAEA;}
+.background-grey {background-color: #EDEAEA;}
 .brand-logo img {
     width: 100px;
     margin-top: 20px;
@@ -11,13 +11,28 @@
 
 .hero-img {
     width: 100vw;
-    height:auto; 
+    height: 100%; 
     background-size: cover;
 }
 
-.section {
-    color: #562020;
-    align-content: center;
-}
-.video { margin-left: auto;}
-.list {list-style-type: none;}
+
+.list {list-style: none;}
+
+
+  .video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+  .header-bold-text {font-weight: bold;
+    font-size: 18pt; color: #562020;}
+  .bold-text {font-weight: bold;
+    font-size: 14pt; color: #562020;}
+    .body-text {
+      font-size: 14pt; color: black;}
+  .center-text {text-align: center;}
+.margin {margin-left: 20px;}
+  .page-footer {background-color: #562020;}
+
+  
+
+  
