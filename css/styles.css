@@ -17,7 +17,7 @@
 
 
 .list {list-style: none;}
-
+.card-image {width: 100%; height:auto;}
 
   .video {
     aspect-ratio: 16 / 9;
