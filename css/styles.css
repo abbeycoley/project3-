@@ -30,7 +30,7 @@
     .body-text {
       font-size: 14pt; color: black;}
   .center-text {text-align: center;}
-.margin {margin-left: 20px;}
+.margin {margin-left: 20px; margin-right: 20px;}
   .page-footer {background-color: #562020;}
 
   
